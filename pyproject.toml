@@ -11,6 +11,8 @@ python = "^3.11"
 ipykernel = "^6.29.5"
 numpy = "^2.0.0"
 argparse = "^1.4.0"
+scikit-learn = "^1.5.1"
+pandas = "^2.2.2"
 
 
 [build-system]
